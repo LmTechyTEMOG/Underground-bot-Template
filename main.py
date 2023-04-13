@@ -1,5 +1,8 @@
 import os
 import fossbotpy
+from dotenv import load_dotenv
+load_dotnev()
+token = os.getenv("BotToken")
 token = os.environ['BotToken']
 base_url = 'https://underground.haydar.com/api/v9/'
 bot = fossbotpy.Client(token=token, base_url=base_url, log={"console":False})

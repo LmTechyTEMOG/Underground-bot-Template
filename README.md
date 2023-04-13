@@ -15,12 +15,16 @@ This template is based of of a Fosscord bot. (with a api url chnage)
 8. Click `Yes, do it!`
 9. Click `Reset Token`
 10. Click `Copy` (don't share this with anyone else.)
-11. Come back to replit.
-12. On the left side of the replit in the tools section scroll down to the padlock.
-13. Altertitvley make a new tab and search up secrets and make that the tab.
-14. Set the key to BotToken. (Name it that eactly or it won't work!)
-15. For vaule paste in your bots token (or press Ctrl + V or Cmd + V on mac)
-16. Press `Add new secret`
+## On replit 
+12. Come back to replit.
+13. On the left side of the replit in the tools section scroll down to the padlock.
+14. Altertitvley make a new tab and search up secrets and make that the tab.
+15. Set the key to BotToken. (Name it that eactly or it won't work!)
+16. For vaule paste in your bots token (or press Ctrl + V or Cmd + V on mac)
+17. Press `Add new secret`
+## Alterviley for other things
+12. In the `.env` file replace ['your token'] with your bots token
+13. 
 
 ## How to invite the bot to your server!
 Now that the bot is made we can add it to your server.
